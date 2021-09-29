@@ -11,7 +11,7 @@ func CheckErr(err error) {
 		panic(err)
 	}
 }
-func Run() {
+func RunTemplate() {
 	// Define a template.
 	const letter = `
 Dear {{.Name}},
