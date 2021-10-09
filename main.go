@@ -28,6 +28,8 @@ func main() {
 
 	// funcfile.RunFuncName()
 
-	funcfile.RunSlice()
+	// funcfile.RunSlice()
+
+	funcfile.RunSayHello()
 
 }
