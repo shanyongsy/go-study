@@ -1,3 +1,3 @@
 module github.com/shanyongsy/go-study
 
-go 1.17
+go 1.21.4
