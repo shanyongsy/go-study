@@ -30,6 +30,12 @@ func main() {
 
 	// funcfile.RunSlice()
 
-	funcfile.RunSayHello()
+	// funcfile.RunSayHello()
+
+	funcfile.CallDoString()
+	funcfile.CallLuaFunc1()
+	funcfile.CallLuaFunc2()
+	funcfile.CallLuaFunc3()
+	funcfile.CallLuaFunc4()
 
 }
