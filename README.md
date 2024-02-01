@@ -20,7 +20,7 @@ Collect the test codes for daily learning go language.
 
 ![花千骨](https://tse4-mm.cn.bing.net/th/id/OIP-C.DTqVEY3Llm1MSHsCLnL6mAHaLH?w=200&h=300&c=7&o=5&pid=1.7)
 
-![本地图片](typora.png)
+![本地图片](https://lh3.googleusercontent.com/0-OnQ4E67kGfYmig-S2VcXQKfT57I8UicTL6Co0QSxYlJxMYY30DTS8NJaAHRs10L3RH1sG5zfTCOs_ehxslzVNvktXPRwDg8Q=w960-rj-nu-e365)
 
 
 ---
