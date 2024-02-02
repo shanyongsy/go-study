@@ -37,5 +37,7 @@ func main() {
 	funcfile.CallLuaFunc2()
 	funcfile.CallLuaFunc3()
 	funcfile.CallLuaFunc4()
+	funcfile.RunLuaCallback()
+	funcfile.RunTableMapping()
 
 }
